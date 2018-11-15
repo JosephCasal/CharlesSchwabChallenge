@@ -1,11 +1,18 @@
 # CharlesSchwabChallenge
 Charles Schwab Challenge - Pizza Me android app
 
+
+
 Instructions:
 Complete the Charles Schwab challenge in MVP with Dagger and RxJava
+
 All requirements in each challenge should be 100% complete.
+
 The applications should have 100% test coverage for business logic, at least 50% for other.
+
 Proper documentation of classes/methods
+
+
 
 Charles Schwab challenge:
 
